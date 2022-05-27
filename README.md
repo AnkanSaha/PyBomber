@@ -1,8 +1,5 @@
 <h1 align="center">
-  <br>
-  <a href="https://github.com/TheSpeedX/TBomb"><img src="https://i.ibb.co/F4HBKqm/TBomb.png" alt="TBomb"></a>
-  <br>
-  TBomb v2.1b
+  PyBomber v1.0.2
   <br>
 </h1>
 
@@ -46,24 +43,6 @@ or any version greater than or equal to 3.4, this script has been tested and con
 
 
 ## Usage:
-
-### Install by PIP (Recommended)
-
-Before continuing make sure following requirements are satisfied:
-
-- Python version greater than or equal to 3.4 is installed
-- pip is installed for Python 3
-
-Install `tbomb` package by running:
-
-```shell script
-pip3 install tbomb
-```
-
-Run TBomb by just typing:
-```shell script
-tbomb
-```
 
 ### Install from GIT
 
